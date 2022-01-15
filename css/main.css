@@ -1,3 +1,15 @@
 body {
   background-color: #1a8294af;
 }
+
+p {
+  color: rgb(78, 26, 26);
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.lrm {
+  color: blue;
+}
